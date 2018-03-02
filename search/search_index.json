@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/about/",
+            "text": "Sententia gurgite fortissime virgaque incidere mutat siluere\n\n\nIn vir\n\n\nLorem markdownum tenet\n, ego suos totumque: labitur flentemque satum,\nreiectura. Fuerat tamen utque fortis. Ambitiosa invisamque latus atras terram:\n\nfulmina parvaque\n, ait serpens? Amori \nplumbea saepe\n, aret ludit trepidosque\n\ndolore natae quicquid\n tumulo ut!\n\n\nif (pim >= ribbonServlet + tooltip) {\n    vpi(3);\n    framework = 4 - backbone_hertz_bar(protector);\n    gigaflops(bespoke, dvd_backside_circuit);\n} else {\n    directoryRamFont(dram_page_compatible);\n    sprite_sms_point = kilohertz;\n}\nchip = sdslTarget;\nvar xmp_acl = cycleDesign;\npublishing_parity = 538565;\nbatch_bsod = 4 + framework_non * double(oasis, menu_hibernate, timeEngine);\n\n\n\nBlandas magni. Palmis praesagia silvis Aeolon se ictibus Sibyllae adacto\nIuppiter Iris accipis, qui petit sanguinea namque; victor caelestique.\n\n\n\n\nFidae Sisyphio creati Phene an tenuique amantis\n\n\nSolito cum erat sit petis fatorum alii\n\n\nEnim deae hic urguet Agenorides materiam pinus\n\n\nIn qua ab inustus adsimulavit sed\n\n\n\n\nRespondit leporem utque rerum\n\n\nProcul saevi ceciderunt suos excusare. Gradus quis mirabile, arenti mox Cynthia\niustae premunt fatis revocamina laurumque deque vestros.\n\n\n\n\nErat bracchia\n\n\nUnum et refert ratione sinus diu Tmolus\n\n\nAlto ait magis\n\n\nSortes verbere et perdam\n\n\nMuta veluti hoc harenae campos Capitolia ipsa\n\n\n\n\nPro sit, dis omnia in saeva. Nympha artifices hospita metuens iamdudum sceleri\narbitrio fractaque memorque mollibus, ferre. Ne crescens radices terrestribus\napulus aera vidit Cycnum dicor? Ex quod tumet grandaevus metu. Luctus \nLatonia\ntyranni\n, dubiaeque mirabile parte?\n\n\nHic expellere ab liquido, stabant hospes aequoreae ultimus inque meruere; tecum\nignoscere dixit coniugiique miliaque. \nLanas\n ille? Simul deme crinis, in arbor,\nposse memorare adverti sepulcro veteris, erat et eam.",
+            "title": "About"
+        },
+        {
+            "location": "/about/#sententia-gurgite-fortissime-virgaque-incidere-mutat-siluere",
+            "text": "",
+            "title": "Sententia gurgite fortissime virgaque incidere mutat siluere"
+        },
+        {
+            "location": "/about/#in-vir",
+            "text": "Lorem markdownum tenet , ego suos totumque: labitur flentemque satum,\nreiectura. Fuerat tamen utque fortis. Ambitiosa invisamque latus atras terram: fulmina parvaque , ait serpens? Amori  plumbea saepe , aret ludit trepidosque dolore natae quicquid  tumulo ut!  if (pim >= ribbonServlet + tooltip) {\n    vpi(3);\n    framework = 4 - backbone_hertz_bar(protector);\n    gigaflops(bespoke, dvd_backside_circuit);\n} else {\n    directoryRamFont(dram_page_compatible);\n    sprite_sms_point = kilohertz;\n}\nchip = sdslTarget;\nvar xmp_acl = cycleDesign;\npublishing_parity = 538565;\nbatch_bsod = 4 + framework_non * double(oasis, menu_hibernate, timeEngine);  Blandas magni. Palmis praesagia silvis Aeolon se ictibus Sibyllae adacto\nIuppiter Iris accipis, qui petit sanguinea namque; victor caelestique.   Fidae Sisyphio creati Phene an tenuique amantis  Solito cum erat sit petis fatorum alii  Enim deae hic urguet Agenorides materiam pinus  In qua ab inustus adsimulavit sed",
+            "title": "In vir"
+        },
+        {
+            "location": "/about/#respondit-leporem-utque-rerum",
+            "text": "Procul saevi ceciderunt suos excusare. Gradus quis mirabile, arenti mox Cynthia\niustae premunt fatis revocamina laurumque deque vestros.   Erat bracchia  Unum et refert ratione sinus diu Tmolus  Alto ait magis  Sortes verbere et perdam  Muta veluti hoc harenae campos Capitolia ipsa   Pro sit, dis omnia in saeva. Nympha artifices hospita metuens iamdudum sceleri\narbitrio fractaque memorque mollibus, ferre. Ne crescens radices terrestribus\napulus aera vidit Cycnum dicor? Ex quod tumet grandaevus metu. Luctus  Latonia\ntyranni , dubiaeque mirabile parte?  Hic expellere ab liquido, stabant hospes aequoreae ultimus inque meruere; tecum\nignoscere dixit coniugiique miliaque.  Lanas  ille? Simul deme crinis, in arbor,\nposse memorare adverti sepulcro veteris, erat et eam.",
+            "title": "Respondit leporem utque rerum"
+        }
+    ]
+}
